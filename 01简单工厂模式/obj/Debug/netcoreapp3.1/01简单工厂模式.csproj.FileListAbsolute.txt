@@ -1,0 +1,13 @@
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\bin\Debug\netcoreapp3.1\01简单工厂模式.exe
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\bin\Debug\netcoreapp3.1\01简单工厂模式.deps.json
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\bin\Debug\netcoreapp3.1\01简单工厂模式.runtimeconfig.json
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\bin\Debug\netcoreapp3.1\01简单工厂模式.runtimeconfig.dev.json
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\bin\Debug\netcoreapp3.1\01简单工厂模式.dll
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\bin\Debug\netcoreapp3.1\01简单工厂模式.pdb
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.csprojAssemblyReference.cache
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.AssemblyInfoInputs.cache
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.AssemblyInfo.cs
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.csproj.CoreCompileInputs.cache
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.dll
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.pdb
+E:\KeepLearn\C#\Design_Patterns_For_CSharp\01简单工厂模式\obj\Debug\netcoreapp3.1\01简单工厂模式.genruntimeconfig.cache
