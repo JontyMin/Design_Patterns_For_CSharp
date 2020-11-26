@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01简单工厂模式", "01简单工厂模式\01简单工厂模式.csproj", "{02177744-A9B5-4564-AE9C-CC54DF0299D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01简单工厂模式", "01简单工厂模式\01简单工厂模式.csproj", "{02177744-A9B5-4564-AE9C-CC54DF0299D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02策略模式", "02策略模式", "{EBB7092B-237D-4AF8-92A5-900BC36C5248}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00案例", "00案例", "{64800F3B-3E9C-4CAB-9272-F72C0C7B122D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate_demo", "00案例\delegate_demo\delegate_demo.csproj", "{22DE7037-1CDA-4ADA-9EDD-850F1EA143A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister", "02策略模式\CashRegister\CashRegister.csproj", "{5A6D0C93-32BA-4F87-B676-99BB84EA0641}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +23,21 @@ Global
 		{02177744-A9B5-4564-AE9C-CC54DF0299D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02177744-A9B5-4564-AE9C-CC54DF0299D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02177744-A9B5-4564-AE9C-CC54DF0299D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DE7037-1CDA-4ADA-9EDD-850F1EA143A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DE7037-1CDA-4ADA-9EDD-850F1EA143A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DE7037-1CDA-4ADA-9EDD-850F1EA143A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DE7037-1CDA-4ADA-9EDD-850F1EA143A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6D0C93-32BA-4F87-B676-99BB84EA0641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6D0C93-32BA-4F87-B676-99BB84EA0641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6D0C93-32BA-4F87-B676-99BB84EA0641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6D0C93-32BA-4F87-B676-99BB84EA0641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22DE7037-1CDA-4ADA-9EDD-850F1EA143A0} = {64800F3B-3E9C-4CAB-9272-F72C0C7B122D}
+		{5A6D0C93-32BA-4F87-B676-99BB84EA0641} = {EBB7092B-237D-4AF8-92A5-900BC36C5248}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06580C96-BFC4-45BB-A3CC-FA2FE5823693}

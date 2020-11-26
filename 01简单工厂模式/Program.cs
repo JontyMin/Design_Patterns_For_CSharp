@@ -7,6 +7,12 @@ namespace _01简单工厂模式
     {
         static void Main(string[] args)
         {
+            /*
+             * 输入运算符号，工厂就实例化合适的对象
+             * 通过多态，返回父类的方式实现了计算器的效果
+             *
+             */
+
             Operation operation = OperationFactory.CreateOperation("-");
             operation.NumberA = 10;
             operation.NumberB = 5;
