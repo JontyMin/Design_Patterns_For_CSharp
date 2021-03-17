@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pLA5WWJwAMt1edql7c088JRYSymbJplno1T/adzQRTa/q/7OPHsCdI5xLCLJ9hI4E7emKn+/2GZqOdRHdql00A==",
+  "dgSpecHash": "w28WNh7b4bIotZRli+lhjeT1zPh0vY5hy1GFfD/Wae6/yY+6G2IQAi4vSElvF2uYaxhd1RMx7YEMdqikAW1qag==",
   "success": true,
-  "projectFilePath": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\delegate_demo.csproj",
+  "projectFilePath": "F:\\GitHub\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\delegate_demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

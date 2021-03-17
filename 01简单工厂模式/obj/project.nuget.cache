@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6YYvB5PgN1AFIfVbeLzUIwP1mDKmBQprxz2AQgQiJ0ONO+rjb2R6sTcKz4EYO+8aHls8n1/zaqHZLQnl8wek9A==",
+  "dgSpecHash": "j6ulyZ6ynZsyd/EdEfP4A6zHi9XvUUByiwGLpJDCfCM+MiOE7QYHCxd9JkWlFEM1dlXlPChxQxeLh8DE2yHSbQ==",
   "success": true,
-  "projectFilePath": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj",
+  "projectFilePath": "F:\\GitHub\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,26 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jonty\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jonty\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\delegate_demo.csproj",
+      "projectUniqueName": "F:\\GitHub\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\delegate_demo.csproj",
       "projectName": "delegate_demo",
-      "projectPath": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\delegate_demo.csproj",
+      "projectPath": "F:\\GitHub\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\delegate_demo.csproj",
       "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
-      "outputPath": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\obj\\",
+      "outputPath": "F:\\GitHub\\Design_Patterns_For_CSharp\\00案例\\delegate_demo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\jonty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

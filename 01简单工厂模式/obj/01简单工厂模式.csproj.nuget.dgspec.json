@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj": {}
+    "F:\\GitHub\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj": {}
   },
   "projects": {
-    "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj": {
+    "F:\\GitHub\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj",
+        "projectUniqueName": "F:\\GitHub\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj",
         "projectName": "01简单工厂模式",
-        "projectPath": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj",
+        "projectPath": "F:\\GitHub\\Design_Patterns_For_CSharp\\01简单工厂模式\\01简单工厂模式.csproj",
         "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
-        "outputPath": "E:\\KeepLearn\\C#\\Design_Patterns_For_CSharp\\01简单工厂模式\\obj\\",
+        "outputPath": "F:\\GitHub\\Design_Patterns_For_CSharp\\01简单工厂模式\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\jonty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
